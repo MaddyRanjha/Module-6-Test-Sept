@@ -1,0 +1,31 @@
+.main-wrapper {
+    width: 80vw;
+    height: 70vh;
+	margin-top: 20px;
+    background: rgb(224, 217, 217);
+}
+
+.page-title {
+    width: 80vw;
+    margin-left: -12px;
+    color: white;
+	text-align: center;
+    background-color: black;
+}
+
+.registration-form {
+	width: 800px;
+    margin:auto;
+  
+}
+body{
+	background: white;
+	color: black
+    margin: 0%;
+    padding: 0%;
+}
+.submit-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
